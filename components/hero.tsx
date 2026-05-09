@@ -78,7 +78,7 @@ export default function Hero() {
         </div>
 
         <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-          Your Friendly Neighborhood IT Engineer — Solving Problems with Full Stack Development and Machine Learning
+          I build apps, train models, and deploy them to the cloud — sometimes all in one weekend.
         </p>
 
         <div className="mb-8 flex justify-center">

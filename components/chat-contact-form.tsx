@@ -155,7 +155,7 @@ export default function ChatContactForm() {
         setIsSending(false);
         setIsSuccess(true);
         await pushBot(
-          "Perfect! I'll pass this along.\nExpect a reply within 24\u201348 hours. \uD83D\uDE80",
+          "Perfect! I'll pass this along.\nSoon you get a reply email from Vasanth. \uD83D\uDE80",
           200
         );
         await pushBot(`Thanks for reaching out, ${name}. Have a great day!`, 400);

@@ -9,9 +9,9 @@ export default function About() {
   const { ref, isVisible } = useScrollAnimation();
 
   const stats = [
-    { number: '10', label: 'Projects Built' },
-    { number: '5', label: 'Months Experience' },
-    { number: '10+', label: 'Technologies' },
+    { number: '10+', label: 'Projects Built' },
+    { number: '1+', label: 'Year Building' },
+    { number: '15+', label: 'Technologies' },
   ];
 
   return (

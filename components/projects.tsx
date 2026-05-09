@@ -157,12 +157,9 @@ export default function Projects() {
                         >
                           <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity bg-accent/5" />
                           <div className="text-center px-4">
-                            <div className="text-4xl font-bold text-accent/40 mb-2">
+                            <div className="text-4xl font-bold text-accent/40">
                               {icon}
                             </div>
-                            <span className="text-muted-foreground font-semibold text-sm">
-                              Project Preview
-                            </span>
                           </div>
                         </div>
 
